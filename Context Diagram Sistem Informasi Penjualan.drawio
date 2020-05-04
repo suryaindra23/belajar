@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-04T08:10:49.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="tcuEtHu9GaPSzeBBCDsy" version="13.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-04T08:13:48.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="3lhopDFhCY5CqNgAnKrl" version="13.0.2" type="github">
   <diagram id="1rgOeiETEAhu0-VzPS00" name="Page-1">
     <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
         <mxCell id="BIn400K-RRMsUNYQPyj5-18" value="Data_Order" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="345" y="110" width="65" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BIn400K-RRMsUNYQPyj5-19" value="Data_Barang&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+        <mxCell id="BIn400K-RRMsUNYQPyj5-19" value="Data_Barang Faktur&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="440" y="110" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BIn400K-RRMsUNYQPyj5-22" value="Data_Order" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -91,10 +91,10 @@
         <mxCell id="BIn400K-RRMsUNYQPyj5-23" value="Data_Barang" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="200" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BIn400K-RRMsUNYQPyj5-24" value="Data_Transaksi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="225" y="220" width="90" height="20" as="geometry" />
+        <mxCell id="BIn400K-RRMsUNYQPyj5-24" value="Data_Transaksi_Harian" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="220" width="127.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BIn400K-RRMsUNYQPyj5-25" value="Data_Order" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BIn400K-RRMsUNYQPyj5-25" value="Data_Order&lt;br&gt;Faktur" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="340" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BIn400K-RRMsUNYQPyj5-26" value="Data_Order Cabang" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -105,6 +105,9 @@
         </mxCell>
         <mxCell id="BIn400K-RRMsUNYQPyj5-29" value="Nota" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="270" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BIn400K-RRMsUNYQPyj5-30" value="Data_Pembelian Pembayaran" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="210" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
